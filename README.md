@@ -6,3 +6,4 @@
 - 🌙🔔 Alerts are triggered in real-time during both **day and night**, helping proactively monitor and respond to possible danger.
 
 **🛠️ Tech Stack:** YOLOv8, Python, Roboflow, Deep Learning
+### Link: https://www.atlantis-press.com/proceedings/computatia-25/126010050
